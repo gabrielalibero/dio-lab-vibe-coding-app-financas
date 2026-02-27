@@ -100,6 +100,9 @@ A solução proposta é uma experiência conversacional, com recomendações aut
 
 > Connect no Lovable Cloud e habilite o banco de dados para persistir transações e um agente financeiro real com processamento de linguagem natural
 
+<img width="562" height="917" alt="image" src="https://github.com/user-attachments/assets/e51f3cbf-e19d-4f63-ad90-be543746ff43" />
+
+
 ---
 
 ## 🎯 Resultado Final

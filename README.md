@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
+---
+
 ## 📝 PRD refinado no Copilot Web:
 
 ```markdown
@@ -90,16 +92,22 @@ A solução proposta é uma experiência conversacional, com recomendações aut
 
             - Ajustes iterativos com base nas interações reais.
 ```
+---
+
 ## 💬 Interações com o Lovable
 
 > {PRD}
 
 > Connect no Lovable Cloud e habilite o banco de dados para persistir transações e um agente financeiro real com processamento de linguagem natural
 
+---
+
 ## 🎯 Resultado Final
 
 Acesse o protótipo funcional no Lovable:
 [https://desafio-conversa-financeira.lovable.app/](https://desafio-conversa-financeira.lovable.app)
+
+---
 
 ## 🔍 Funcionalidades do App de Organização Financeira
 
@@ -132,6 +140,8 @@ Acesse o protótipo funcional no Lovable:
 - Acompanhamento de metas e progresso financeiro
 
 <img width="1322" height="739" alt="image" src="https://github.com/user-attachments/assets/5cc53ad6-ac69-4f24-a49e-5745c55319f5" />
+
+---
 
 ## 🧠 Reflexão
 
